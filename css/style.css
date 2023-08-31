@@ -12,8 +12,9 @@ img {
 }
 
 /* PCのスタイル */
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 750px) {
     .main {
         margin-left: 30%;
+        margin-top: 5%;
     }
 }
